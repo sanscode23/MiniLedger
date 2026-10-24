@@ -2,7 +2,9 @@
 
 Track money you've lent to friends. Node.js + TypeScript + PostgreSQL (Prisma) backend and a React Native (Expo) app.
 
-Demo video: <Loom or Drive link>
+# MiniLedger
+
+**Demo video:** [Watch the demo on Google Drive](https://drive.google.com/drive/folders/1nOl5Q_3CxoR_ekSuq3U7W7JL737CigPu)
 
 ## Features
 - Phone login with mock OTP (OTP is printed in the backend terminal)
